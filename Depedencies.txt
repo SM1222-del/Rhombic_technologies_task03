@@ -8,13 +8,13 @@ speech_recognition: For speech recognition (converting speech to text).
 
 pyttsx3: For text-to-speech conversion.
 
-webbrowser: For opening the map in a web browser (this is a built-in Python module, so no installation is needed).
+webbrowser: For opening the map in a web browser (a built-in Python module). 
 
-os: For file path manipulation (this is also a built-in Python module).
+os: For file path manipulation (a built-in Python module).
 
 ###Installation Commands:
-You can install the required packages using pip. Run the following commands in your terminal or command prompt:
+Install the required packages using pip. Run the following commands in your terminal or command prompt:
 
-bash
-Copy
-pip install requests folium SpeechRecognition pyttsx3
+'pip install requests folium SpeechRecognition pyttsx3'
+
+
