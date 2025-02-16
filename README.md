@@ -1,5 +1,6 @@
 # Rhombic_technologies_task03
 Location Tracker Virtual Assistant
+
 This Python script is a simple virtual assistant that helps you track your current location using your public IP address. It fetches your approximate location using the ip-api.com service and displays it on an interactive map using the folium library. The assistant can also speak to you and listen to your commands using text-to-speech (pyttsx3) and speech recognition (speech_recognition) libraries.
 
 Features:
