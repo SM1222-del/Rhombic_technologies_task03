@@ -21,10 +21,5 @@ If you ask for your location, it fetches your public IP and uses it to determine
 
 The location is displayed on an interactive map, and the assistant speaks out your address.
 
-###Requirements:
-
-Python 3.x
-Libraries: requests, folium, speech_recognition, pyttsx3
-
 ###Usage:
 Run the script, and the virtual assistant will greet you. Simply ask, "Where am I?" or "Show my location," and it will fetch and display your location. Say "exit" to end the session.
